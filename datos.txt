@@ -4,4 +4,5 @@ Honduras
 Guatemala
 El Salvador
 Nicaragua
-Costa Rica
+
+Esto es centroamerica
